@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Anuradha
+- 👀 I’m an aspring Data Scientist
+- 🌱 I’m currently learning Python,Pyspark,SQL and Power BI
